@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\ImageList\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\3.D\source\repos\ImageList\ImageList\bin\Debug\ImageList.exe
+C:\Users\3.D\source\repos\ImageList\ImageList\bin\Debug\ImageList.pdb
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.exe
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.pdb
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.FormImageList.resources
+C:\Users\3.D\source\repos\ImageList\ImageList\obj\Debug\ImageList.csprojAssemblyReference.cache
